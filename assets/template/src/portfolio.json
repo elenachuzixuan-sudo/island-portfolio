@@ -4,6 +4,7 @@
     "name": "褚子萱 | Elena",
     "title": "个人作品集"
   },
+  "modules": ["bio", "exhibits", "socials"],
   "bio": "杜伦大学经济学理学硕士，专注实证经济、消费者洞察与商业数据分析，这座小岛记录我的学术研究、竞赛与实习项目。",
   "socials": [
     {
