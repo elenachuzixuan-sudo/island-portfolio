@@ -7,17 +7,17 @@
   "modules": [
     {
       "name": "bio",
-      "label": "关于我",
+      "shortLabel": "关于我",
       "kind": "bio"
     },
     {
       "name": "exhibits",
-      "label": "项目",
+      "shortLabel": "项目",
       "kind": "exhibits"
     },
     {
       "name": "socials",
-      "label": "链接",
+      "shortLabel": "链接",
       "kind": "socials"
     }
   ],
